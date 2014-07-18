@@ -27,6 +27,18 @@ int main() {
 	sentence.display();
 	hell0w0rld::newLine();
 
+	sentence.clear();
+
+	sentence.addSymbol(':');
+	sentence.addSymbol(')');
+	sentence.addSpace();
+	sentence.addSymbol('<');
+	sentence.addSymbol('3');
+	sentence.display();
+	hell0w0rld::newLine();
+
+	sentence.clear();
+
 	_getch();
 	return 0;
 }
