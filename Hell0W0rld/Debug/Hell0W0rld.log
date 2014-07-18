@@ -1,4 +1,2 @@
 ﻿  Hell0W0rld.cpp
-d:\github\hell0w0rld\hell0w0rld\hell0w0rld.cpp(196): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
-          c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
   Hell0W0rld.vcxproj -> D:\Github\Hell0W0rld\Debug\Hell0W0rld.exe
